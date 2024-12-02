@@ -1,3 +1,3 @@
 # The Odin Project Tutorials
 
-Repo for tracking TOP tutorial work
+Repo for tracking tutorial work for The Odin Project
