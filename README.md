@@ -1,6 +1,4 @@
-# The Odin Project Tutorials
+# The Odin Project Tutorials - Odin Recipes
 
-Repo for tracking tutorial work for The Odin Project
-
-### Project 1: Recipes
+Repo for my Odin Recipes project
 
