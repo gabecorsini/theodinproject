@@ -1,0 +1,8 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.recipe-navigation-home {
+    list-style-type: none;
+    text-align: center;
+}
