@@ -2,7 +2,16 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.recipe-navigation-home {
+h1 {
+    text-align: center;
+}
+
+.recipe-navigation-home ul {
     list-style-type: none;
     text-align: center;
+}
+
+.recipe-image {
+    height: 500px;
+    width: auto;
 }
